@@ -34,3 +34,28 @@ width: 83%;
     
     
 }
+#abcd{
+    text-align: center;
+}
+#efgh{
+    text-align: center;
+}
+.lower-part{
+    width: 30%;
+    padding: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray; 
+}
+.resize{
+    width: 360px;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
+.f-colour{
+    color: white;
+}
