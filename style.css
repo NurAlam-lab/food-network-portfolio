@@ -4,7 +4,7 @@ body{
 }
 
 h1{
-    font-size: 45px;
+    font-size: 37px;
 
 }
 .colour{
@@ -13,13 +13,14 @@ h1{
 .uper-part{
     display: flex;
     margin-bottom: 150px;
+    
 }
 .change-width{
     width: 50%;
     padding: 5%;
 }
 .change-width img{
-width: 83%;
+width: 95%;
 }
 .button{
     text-decoration: none;
@@ -38,19 +39,33 @@ width: 83%;
 #abcd{
     text-align: center;
 }
-#efgh{
+.efgh{
     text-align: center;
 }
+
 .lower-part{
-    width: 30%;
-    padding: 0px;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 21.5%;
+    padding: 15px;
+
     border-radius: 10px;
-    box-shadow: 10px 10px 30px gray; 
+    box-shadow: 10px 10px 30px gray;
+
+    
+}
+#first-box{
+    margin-left: 10%; 
+    margin-right: 5%;
+}
+#second-box{
+    margin-left: 0%;
+    margin-right: 5%;
+}
+#third-box{
+    margin-left: 0%;
+    margin-right: 10%;
 }
 .resize{
-    width: 360px;
+    width: 274px;
     padding: 5px;
 }
 footer{
