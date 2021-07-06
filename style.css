@@ -12,6 +12,7 @@ h1{
 }
 .uper-part{
     display: flex;
+    margin-bottom: 150px;
 }
 .change-width{
     width: 50%;
@@ -42,7 +43,7 @@ width: 83%;
 }
 .lower-part{
     width: 30%;
-    padding: 0%;
+    padding: 0px;
     margin-left: 5%;
     margin-right: 5%;
     border-radius: 10px;
